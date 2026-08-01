@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-orixe4.nuansa138.xyz/sitemap.xml
